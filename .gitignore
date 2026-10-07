@@ -10,6 +10,3 @@ mlartifacts/
 models/*.joblib
 reports/*.png
 reports/*.csv
-data/*.csv
-!data/.gitkeep
-!data/README.md
