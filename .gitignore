@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+mlruns/
+mlartifacts/
+models/*.joblib
+reports/*.png
+reports/*.csv
+data/*.csv
+!data/.gitkeep
+!data/README.md
